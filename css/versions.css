@@ -23,6 +23,12 @@
     1. BARBER
 -------------------------------------------------------------------*/
 
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', 微軟正黑體 , sans-serif;
+}
+
 body.barber_version .participate-wrap small,
 body.barber_version .message-box h4,
 body.barber_version .customwidget li i,
